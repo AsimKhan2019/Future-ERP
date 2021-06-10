@@ -1,4 +1,4 @@
-Django==1.9.6
+Django==2.2.24
 Pillow==3.2.0
 argparse==1.2.1
 django-grappelli==2.8.1
